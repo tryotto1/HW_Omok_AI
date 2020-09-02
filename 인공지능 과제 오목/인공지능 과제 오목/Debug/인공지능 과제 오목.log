@@ -1,0 +1,10 @@
+﻿  오목 과제.cpp
+C:\Users\tryot\source\repos\인공지능 과제 오목\인공지능 과제 오목\오목 과제.cpp(45,24): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'time_t'입니다.
+C:\Users\tryot\source\repos\인공지능 과제 오목\인공지능 과제 오목\오목 과제.cpp(45,24): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\Users\tryot\source\repos\인공지능 과제 오목\인공지능 과제 오목\오목 과제.cpp(45,24): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\Users\tryot\source\repos\인공지능 과제 오목\인공지능 과제 오목\오목 과제.cpp(178,22): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tryot\source\repos\인공지능 과제 오목\인공지능 과제 오목\오목 과제.cpp(199,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tryot\source\repos\인공지능 과제 오목\인공지능 과제 오목\오목 과제.cpp(1904,28): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tryot\source\repos\인공지능 과제 오목\인공지능 과제 오목\오목 과제.cpp(1893,9): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+C:\Users\tryot\source\repos\인공지능 과제 오목\인공지능 과제 오목\오목 과제.cpp(246): warning C4715: 'Board::prun': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  인공지능 과제 오목.vcxproj -> C:\Users\tryot\source\repos\인공지능 과제 오목\Debug\인공지능 과제 오목.exe
