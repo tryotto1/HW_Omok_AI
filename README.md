@@ -6,6 +6,10 @@ alpha beta prunning 알고리즘과 iterative deepening 방식을 사용했습�
 
 추가적인 UI 없이 콘솔만 이용해서 할 수 있는 게임입니다
 
+
+
+
+
 It was the first AI class for Professor Yuk Dong-seok in the first semester of 2020.
 
 I used the alpha beta running algorithm and the alternative holding method.
